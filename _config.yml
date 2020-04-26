@@ -1,0 +1,12 @@
+remote_theme: antonostrovsky/tale
+twitter_username: "aaa"
+formspree_id: "aaa"
+github_repo: "aaa"
+baseurl: "/test_site"
+
+title: Test website
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-feed
