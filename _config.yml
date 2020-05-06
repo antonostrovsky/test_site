@@ -2,6 +2,7 @@ remote_theme: antonostrovsky/tale
 twitter_username: "aaa"
 formspree_id: "aaa"
 github_repo: "aaa"
+base_url: "test_site"
 
 title: Test website
 
