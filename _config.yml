@@ -7,6 +7,7 @@ base_url: "/test_site"
 title: Test website
 
 plugins:
-  - jekyll-paginate
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-feed
