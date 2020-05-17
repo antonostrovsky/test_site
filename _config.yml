@@ -1,13 +1,8 @@
-remote_theme: antonostrovsky/tale
-twitter_username: "aaa"
-formspree_id: "aaa"
-github_repo: "aaa"
-base_url: "/test_site"
+remote_theme: chesterhow/tale
 
-title: Test website
+permalink:    /:year-:month-:day/:title
+paginate:     5
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-feed
+  - jekyll-remote-theme
